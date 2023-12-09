@@ -1,6 +1,4 @@
-# ujianpweb
-
-Ujian Praktikum Pemrograman WEB
+# Ujian Praktikum Pemrograman WEB
 
 Nama  : Farhan Maulana
 NPM   : 50421476
